@@ -1,0 +1,6 @@
+sbm_placement,1,0,0,0,1,Direction.NONE
+sbm_placement,1,1,1,1,2,Direction.BOTTOM
+sbm_placement,1,2,2,2,3,Direction.BOTTOM
+sbm_placement,2,0,0,0,1,Direction.NONE
+sbm_placement,2,1,1,1,2,Direction.BOTTOM
+sbm_placement,2,2,2,2,3,Direction.BOTTOM
